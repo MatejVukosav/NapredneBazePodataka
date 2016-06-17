@@ -1,0 +1,22 @@
+1.	Napisati PHP skriptu koja æe se spojiti na poslužitelj na kojem se nalazi vaša baza podataka o automehanièarskoj radionici, te na bazu. Podatke za spajanje (ime poslužitelja, ime baze, korisnièko ime i lozinka) potrebno je samostalno definirati u skladu s postavkama na vlastitom raèunalu. Skripta mora za sve radnike koji stanuju u Zagrebu ispisivati e-mail adresu u obliku imeRadnik.prezimeRadnik@autoservis.com. Podatke je potrebno ispisati u željenom ali preglednom obliku (tablica, redci,…)
+
+2.	Napisati PHP skriptu koja æe se spojiti na poslužitelj na kojem se nalazi vaša baza podataka o automehanièarskoj radionici, te na bazu. Podatke za spajanje (ime poslužitelja, ime baze, korisnièko ime i lozinka) potrebno je samostalno definirati u skladu s postavkama na vlastitom raèunalu. Skripta mora omoguæiti unos novog kvara u tablicu kvar (svih potrebnih atributa).
+
+3.	Napisati PHP skriptu koja æe se spojiti na poslužitelj na kojem se nalazi vaša baza podataka o automehanièarskoj radionici, te na bazu. 
+Potrebno je spojiti se sa sljedeæim podatcima:
+
+-	Poslužitelj: localhost
+-	Korisnik: korinik1
+-	Lozinka: pass
+Skripta mora za svaku županiju ispisati koliko se u njoj nalazi mjesta. Podatke je potrebno ispisati u željenom ali preglednom obliku (tablica, redci,…)
+
+4.	Napisati skriptu koja æe se spojiti na bazu podataka autoradionica na lokalnom poslužitelju sa sljedeæim podacima:
+-	Poslužitelj: localhost
+-	Korisnik: admin
+-	Lozinka: jura
+Nakon toga skripta mora za zadani poštanski broj mjesta (koji se zadaje putem HTML forme) ispisati ime i prezime klijenta za kojeg je posljednje zaprimljen nalog nalog.datPrimitkaNalog) a živi u tom mjestu. 
+U ispisu se trebaju vidjeti samo gore navedene kolone.
+Ako je potrebno izdajte si (minimalne) potrebne dozvole za rad nad bazom podataka.
+
+5.	Napisati PHP skriptu koja æe se spojiti na poslužitelj na kojem se nalazi vaša baza podataka o automehanièarskoj radionici, te na bazu. Podatke za spajanje (ime poslužitelja, ime baze, korisnièko ime i lozinka) potrebno je samostalno definirati u skladu s postavkama na vlastitom raèunalu. Skripta mora svim radnicima sa ispodprosjeènom plaæom uveæati koeficijent plaæe za 10%.
+
